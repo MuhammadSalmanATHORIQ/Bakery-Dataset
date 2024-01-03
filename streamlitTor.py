@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from mlxtend.frequent_patterns import association_rules, apriori
-import sys
 
 # Load dataset
 df = pd.read_csv('Bakery.csv')
