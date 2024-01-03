@@ -297,3 +297,4 @@ refinedRules
 ![image](Deployment.png)
 
 [linkStreamlit](http://localhost:8501/)
+[linkStreamlit]([http://localhost:8501/](https://bakery-dataset-zp9mdxn4ajr73bmvxa8znz.streamlit.app/)https://bakery-dataset-zp9mdxn4ajr73bmvxa8znz.streamlit.app/)
